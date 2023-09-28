@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:ezzahrioussama01@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" height="30" width="40" /></a>
 <a href="https://fb.com/oussama ezzahri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussama ezzahri" height="30" width="40" /></a>
 <a href="https://instagram.com/oussama__ez1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama__ez1" height="30" width="40" /></a>
 </p>
