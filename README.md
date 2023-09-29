@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm EZZAHRI Oussama</h1>
 <h3 align="center">I am a university student majoring in computer science</h3>
 
@@ -10,7 +10,7 @@
 <p align="left">
     <div style="display: flex; align-items: center;">
         <a href="mailto:ezzahrioussama01@gmail.com" style="margin-right: 10px;">
-         <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" height="30" width="40" />
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40" />
          </a>
         <a href="https://fb.com/oussama ezzahri" target="_blank" style="margin-right: 10px;">
          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussama ezzahri" height="30" width="40" />
