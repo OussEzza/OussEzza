@@ -25,8 +25,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmwop.net%2Fblog%2F2022-04-26-tailwind.html&psig=AOvVaw3sKYw6SM4HARmxWjZ-99dR&ust=1711150477881000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjD6rTChoUDFQAAAAAdAAAAABAE" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
+
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussezza&show_icons=true&locale=en&layout=compact" alt="oussezza" /></p>
